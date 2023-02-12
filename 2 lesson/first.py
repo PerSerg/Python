@@ -1,0 +1,1 @@
+print("erik" not in 'website=erka')
